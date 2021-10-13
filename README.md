@@ -4,7 +4,7 @@
 <head>
 <meta charset="ulf-8"/>
 <title>杨俊的网页</title>
-<link rel="stylesheet"type="text/css"herf="Desktop\background.css">
+<link rel="stylesheet"type="text/css"herf="background.css">
 </head>
 <body>
 <h1>爱好</h1>
